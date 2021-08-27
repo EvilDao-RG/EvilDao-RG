@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EvilDao-RG
+- 👀 I’m interested in learning as much as possible and participating a lot
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on python and object oriented programming projects
+- 📫 How to reach me gaelrodguezhotmail.com
